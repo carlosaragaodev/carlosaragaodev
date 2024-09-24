@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn programming 
 - 🌱 I’m currently learning html and css
 - 📫 How to reach me ...
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he/him
   
 
 <!---
